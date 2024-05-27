@@ -17,7 +17,6 @@ Fast Tube is a simple command-line application for downloading videos from YouTu
 5. Click on "Download Video" or "Download Audio" to start the download.
 
 ## Requirements
-<img width="500" alt="Screenshot 2024-05-27 105200" src="https://github.com/nouhtech/youtube-download/assets/161375331/51b61d56-4a8d-4610-b4e0-5c154bc6f9c8">
 The following are required to run Fast Tube:
 
 - Python 3
@@ -33,6 +32,16 @@ The following are required to run Fast Tube:
 ## License
 
 This software is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+<img width="500" alt="Screenshot 2024-05-27 105200" src="https://github.com/nouhtech/youtube-download/assets/161375331/51b61d56-4a8d-4610-b4e0-5c154bc6f9c8">
+
+
+
+
+
+
+
+
 
 ## Support and Contact
 
