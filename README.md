@@ -30,7 +30,6 @@ The following are required to run Fast Tube:
 2. Install PyQt5 using the following command:
 3. Install pytube using the following command:
 
-4. 
 ## License
 
 This software is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
@@ -46,4 +45,4 @@ If you have any questions or suggestions, please contact us via the following li
 
 All rights reserved © NouhTech
 
-
+**Download the program from [here](https://github.com/nouhtech/youtube-download/releases).**
