@@ -39,10 +39,11 @@ This software is licensed under the MIT License. See the [LICENSE](LICENSE) file
 If you have any questions or suggestions, please contact us via the following links:
 
 - [Telegram](https://telegram.me/nouhtech)
-- [Facebook](https://www.facebook.com/nouhtech)
+- [instagram](https://www.instagram.com/nouhtech)
+- 
+**Download the program from [here](https://github.com/nouhtech/youtube-download/releases).**
 
 ---
 
 All rights reserved © NouhTech
 
-**Download the program from [here](https://github.com/nouhtech/youtube-download/releases).**
