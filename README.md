@@ -36,6 +36,7 @@ This software is licensed under the MIT License. See the [LICENSE](LICENSE) file
 <img width="500" alt="Screenshot 2024-05-27 105200" src="https://github.com/nouhtech/youtube-download/assets/161375331/51b61d56-4a8d-4610-b4e0-5c154bc6f9c8">
 
 
+<img width="501" alt="Screenshot 2024-05-27 131215" src="https://github.com/nouhtech/youtube-download/assets/161375331/83c3b515-f209-44a2-880b-aaec83f0d1fe">
 
 
 
