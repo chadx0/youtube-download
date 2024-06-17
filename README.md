@@ -54,7 +54,5 @@ If you have any questions or suggestions, please contact us via the following li
 **Download the program from [here](https://github.com/nouhtech/youtube-download/releases).**
 
 ---
-MTI1MjA2MTUwNzg5MDQ1MDQ0Mw.GrDgcA.tcbBqxClue-9Ecvaq7SpMp1DaZwqkmLZFT8n4Q
-1252063789608599592
 All rights reserved © NouhTech
 
