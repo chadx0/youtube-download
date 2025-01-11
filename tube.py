@@ -118,9 +118,9 @@ class MainWindow(QMainWindow):
         telegram_button = QPushButton("Telegram")
         telegram_button.clicked.connect(self.open_telegram)
         social_layout.addWidget(telegram_button)
-        facebook_button = QPushButton("Facebook")
-        facebook_button.clicked.connect(self.open_facebook)
-        social_layout.addWidget(facebook_button)
+        _button = QPushButton("Twitter")
+        twitter_button.clicked.connect(self.open_twitter)
+        social_layout.addWidget(twitter_button)
         main_layout.addLayout(social_layout)
 
         # Add copyright text and Instagram link
@@ -209,7 +209,7 @@ class MainWindow(QMainWindow):
     def open_telegram(self):
         webbrowser.open("https://telegram.me/nouhtech")
 
-    def open_facebook(self):
+    def open_twitter(self):
         webbrowser.open("https://x.com/nouh_tech")
 
 class DownloadWorker(QThread):
