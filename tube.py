@@ -204,13 +204,13 @@ class MainWindow(QMainWindow):
             self.console.append("Download complete.")
 
     def report_issue(self):
-        webbrowser.open("https://x.com/nouh_tech")
+        webbrowser.open("https://github.com/chadx0/youtube-download/issues")
 
     def open_telegram(self):
         webbrowser.open("https://telegram.me/nouhtech")
 
     def open_facebook(self):
-        webbrowser.open("https://www.facebook.com/nouhtech")
+        webbrowser.open("https://x.com/nouh_tech")
 
 class DownloadWorker(QThread):
     progress = pyqtSignal(int)
